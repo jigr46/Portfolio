@@ -1,0 +1,172 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  /* font-family: "Poppins", sans-serif; */
+  background: #f8f9fa;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+.custom-navbar {
+  background-color: #000000;
+}
+
+.custom-navbar_items {
+  color: white;
+  font-family: "Jura", sans-serif;
+  font-size: 1.5rem;
+  font-weight: 650;
+  text-decoration: none;
+  letter-spacing: 0.2rem;
+  font-style: bold;
+}
+
+.custom-navbar_items:hover {
+  text-decoration: underline;
+}
+
+.custom-navbar_toggler {
+  background-color: white;
+}
+
+.developer-name {
+  color: #eb5e28;
+}
+
+.custom-Download_button {
+  background-color: #eb5e28;
+  color: white;
+  font-size: 1.5rem;
+  font-family: "Jura", sans-serif;
+  letter-spacing: 0.2rem;
+  padding: 15px;
+}
+
+.custom-Download_button:hover {
+  background: black;
+  color: #e5e5e5;
+}
+
+.custom-navbar_items_position {
+  justify-content: flex-end;
+}
+
+.custom_intro {
+  position: relative;
+  color: white;
+}
+
+.custom-section_heading {
+  color: black;
+  font-weight: 800;
+  font-size: 55px;
+  font-family: "Jura", sans-serif;
+}
+
+.custom-card_effect:hover {
+  box-shadow: 0 0 20px #ededed;
+  border-radius: 1rem;
+}
+
+.custom-skill_heading {
+  font-family: "Jura", sans-serif;
+  font-weight: 550;
+}
+
+.custom-Project_button {
+  background: #eb5e28;
+  color: white;
+  font-size: 1rem;
+  padding: 10px;
+  letter-spacing: 2px;
+  text-decoration: none;
+  font-weight: 600;
+}
+
+.custom-Project_button:hover {
+  background: black;
+  color: white;
+}
+
+.custom-container {
+  margin-top: 75px;
+}
+
+.custom-border {
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  border-bottom: 2px solid #eb5e28;
+  background: #f8f9fa;
+}
+
+.custom-save_button {
+  background-color: #eb5e28;
+  color: white;
+  font-size: 1rem;
+  font-family: "Jura", sans-serif;
+  letter-spacing: 2px;
+  padding: 10px;
+}
+
+.custom-save_button:hover {
+  background: black;
+  color: #e5e5e5;
+}
+
+.custom-footer {
+  background-color: #000000;
+  height: 250px;
+  display: flex;
+  align-items: center;
+}
+
+.custom-footer_text {
+  color: white;
+  font-family: "Jura", sans-serif;
+  font-size: 1.25rem;
+}
+.custom-social-media1 {
+  background: #e5e5e5;
+}
+.custom-social-media1:hover {
+  background: #0077b5;
+  border-radius: 10px;
+}
+.custom-social-media2 {
+  background: #e5e5e5;
+  border-radius: 50px;
+}
+.custom-social-media2:hover {
+  background: #6e5494;
+}
+
+.custom-social-media3 {
+  background: #e5e5e5;
+  border-radius: 5px;
+}
+.custom-social-media3:hover {
+  background: #df5043;
+}
+
+.custom-social-media4 {
+  background: #e5e5e5;
+  border-radius: 5px;
+}
+.custom-social-media4:hover {
+  background: #25d366;
+}
+
+.custom-social-media5 {
+  background: #e5e5e5;
+  border-radius: 10px;
+}
+.custom-social-media5:hover {
+  background: #eb5e28;
+}
